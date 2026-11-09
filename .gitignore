@@ -1,0 +1,35 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Keystore and signing keys (CRITICAL - NEVER COMMIT)
+*.jks
+*.keystore
+*.key
+*.pem
+*.p12
+*.bks
+key.properties
+signing.properties
+
+# Local configuration
+local.properties
+
+# Gradle and Build caches
+.gradle/
+build/
+app/build/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS generated files
+.DS_Store
+Thumbs.db

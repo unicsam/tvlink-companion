@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Emerald Circle Background -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M32,4C16.5,4 4,16.5 4,32s12.5,28 28,28 28,-12.5 28,-28S47.5,4 32,4z" />
+    <!-- White Checkmark -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M20,32l8,8l16,-16" />
+</vector>

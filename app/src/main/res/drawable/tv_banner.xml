@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <!-- Dark TV Banner Background -->
+    <path
+        android:fillColor="#12131A"
+        android:pathData="M0,0h320v180h-320z" />
+    <!-- Gradient Glow Accent -->
+    <path
+        android:fillColor="#1510B981"
+        android:pathData="M80,0h160v180h-160z" />
+    <!-- TV Outline Icon -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:fillColor="#1C1D26"
+        android:pathData="M110,40h100c6,0 10,4 10,10v60c0,6 -4,10 -10,10H110c-6,0 -10,-4 -10,-10V50c0,-6 4,-10 10,-10z" />
+    <!-- Stand -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M140,120h40 M160,120v12" />
+    <!-- Checkmark inside TV -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M148,80l8,8l18,-18" />
+</vector>

@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Deep Dark Rounded Background -->
+    <path
+        android:fillColor="#181920"
+        android:pathData="M20,4h68c8.8,0 16,7.2 16,16v68c0,8.8 -7.2,16 -16,16H20c-8.8,0 -16,-7.2 -16,-16V20c0,-8.8 7.2,-16 16,-16z" />
+    <!-- Remote Screen Frame -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="3.5"
+        android:fillColor="#00000000"
+        android:pathData="M32,24h44c4.4,0 8,3.6 8,8v44c0,4.4 -3.6,8 -8,8H32c-4.4,0 -8,-3.6 -8,-8V32c0,-4.4 3.6,-8 8,-8z" />
+    <!-- Stand -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,84h20 M54,84v6" />
+    <!-- Signal Link Icon -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M45,54l6,6l14,-14" />
+</vector>

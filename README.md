@@ -6,6 +6,16 @@
 
 ---
 
+### 📱 Get TV Link Remote for Your Phone
+
+This companion bridge connects to **TV Link** — the premier Android TV remote app with ultra-fast connectivity, smooth trackpad gestures, and instant app switching:
+
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.tvlink)
+
+👉 **[Download TV Link on Google Play Store](https://play.google.com/store/apps/details?id=com.tvlink)**
+
+---
+
 ## ✨ Features
 
 * ⚡ **Instant Launch:** Zero-latency switching to your favorite TV apps.
@@ -68,3 +78,4 @@ cd tvlink-companion
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
